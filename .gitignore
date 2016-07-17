@@ -1,10 +1,9 @@
 /words
 /data
-/.ipynb_checkpoints
+/notebooks/.ipynb_checkpoints
 *.json
 *.csv
 *.dot
-*.jpg
 *.pkl
 *.txt
 *.png

@@ -1,0 +1,10 @@
+/words
+/data
+/.ipynb_checkpoints
+*.json
+*.csv
+*.dot
+*.jpg
+*.pkl
+*.txt
+*.png
